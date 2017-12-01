@@ -118,7 +118,7 @@
     </gap:plugin>
     <plugin name="cordova-plugin-device" spec="1.1.6"/>
     <gap:plugin name="cordova-plugin-file" source="npm"  version="5.0.0"/>
-    <gap:plugin name="cordova-plugin-file-transfer" source="npm" version="0.0.3" />
+    <gap:plugin name="cordova-plugin-file-transfer" source="npm" version="1.0.1" />
     <gap:plugin name="cordova-plugin-globalization" source="npm"  version="1.0.8"/>
     <gap:plugin name="cordova-plugin-inappbrowser" source="npm"  version="1.7.2"/>
     <gap:plugin name="cordova-plugin-network-information" source="npm" version="1.3.4" />
