@@ -5,10 +5,10 @@
         id        = "com.puddytatspeech.ArticFun"
         versionCode = "2017"
         version   = "3.0.3">
-    <name>eaceprep</name>
+    <name>Lufthansa Technical Training</name>
 
     <description>
-       Demo Mobile official app
+       Lufthansa app
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
